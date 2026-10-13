@@ -1,0 +1,27 @@
+# Variables de entorno (¡nunca subir tus claves!)
+.env
+
+# Byte-compiled / cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Distribución / empaquetado
+dist/
+build/
+*.egg-info/
+
+# Editores y SO
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
